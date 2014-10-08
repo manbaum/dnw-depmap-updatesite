@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="DNW Dependency Map Generator" url="http://manbaum.github.io/dnw-depmap/">
+      DNW-depmap is an Eclipse plug-in to help create Java code dependency map. Our goal is to help developer easily identify the areas of influence when they change code.
+   </description>
+   <feature url="features/com.dnw.depmap.feature_1.0.0.pre.jar" id="com.dnw.depmap.feature" version="1.0.0.pre"/>
+</site>
